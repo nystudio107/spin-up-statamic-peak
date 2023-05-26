@@ -14,6 +14,7 @@ This project was created using [Spin Up Statamic](https://github.com/nystudio107
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=645876733)
 
+2. Or click on **Use this Template** -> **Open in codespace**
 3. In the resulting Terminal window, type `make dev` to start the project up
 3. Wait until you see output like this, and then access the site via the credentials that are output on the console:
 
