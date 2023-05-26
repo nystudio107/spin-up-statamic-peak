@@ -1,4 +1,4 @@
-# Spin Up Craft 4.4 Beta
+# Spin Up Statamic Peak
 
 If you want to give the popular Statamic [Peak starter kit](https://statamic.com/starter-kits/studio1902/peak) a try without having to do any setup, this project is for you!
 
@@ -18,16 +18,16 @@ This project was created using [Spin Up Statamic](https://github.com/nystudio107
 3. Wait until you see output like this, and then access the site via the credentials that are output on the console:
 
 ```
-php_1    | ### Your Statamic site is ready!
-php_1    | Frontend URL: https://khalwat-laughing-space-zebra-xg9qxvqjpqhp5qx-8050.preview.app.github.dev/
-php_1    | CP URL: https://khalwat-laughing-space-zebra-xg9qxvqjpqhp5qx-8050.preview.app.github.dev/cp
-php_1    | CP User: demo@statamic.com
-php_1    | CP Password: password
+queue-1    | ### Your Statamic site is ready!
+queue-1    | Frontend URL: https://khalwat-opulent-xylophone-q59g6p5vqj3rvr-8050.preview.app.github.dev/
+queue-1    | CP URL: https://khalwat-opulent-xylophone-q59g6p5vqj3rvr-8050.preview.app.github.dev/cp
+queue-1    | CP User: demo@statamic.com
+queue-1    | CP Password: password
 ```
 
 This lets anyone use the project without having to do _any_ local setup.
 
-You can use the Codespaces editor to edit Twig files, load the site frontend, or log into the Craft CP, all from within a browser!
+You can use the Codespaces editor to edit Twig files, load the site frontend, or log into the Statamic CP, all from within a browser!
 
 The first time you start up your project in Codespaces, it'll take some time to set everything up. However, subsequent startups will be very quick.
 
@@ -48,11 +48,11 @@ You are limited to 15 active Codespaces on the free plan, but you can go in and 
 5. Wait until you see output like this, and then access the site via the credentials that are output on the console:
 
 ```
-spin-up-craft-44-beta-php-1    | ### Your Statamic site is ready!
-spin-up-craft-44-beta-php-1    | Frontend URL: http://localhost:8050/
-spin-up-craft-44-beta-php-1    | CP URL: http://localhost:8050/cp
-spin-up-craft-44-beta-php-1    | CP User: demo@statamic.com
-spin-up-craft-44-beta-php-1    | CP Password: password
+queue-1  | ### Your Statamic site is ready!
+queue-1  | Frontend URL: http://localhost:8050/
+queue-1  | CP URL: http://localhost:8050/cp
+queue-1  | CP User: demo@statamic.com
+queue-1  | CP Password: password
 ```
 
 Hit `Control-C` to terminate the project and spin down the containers
